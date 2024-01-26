@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*.iml
+.fleet/
+
+/*.zip
+/*.pdf
